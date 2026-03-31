@@ -1,0 +1,20 @@
+# --- Data Science Core ---
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# --- Machine Learning & Tools ---
+scikit-learn
+joblib
+xgboost
+lightgbm
+
+# --- NLP & Web Scraping ---
+beautifulsoup4
+pyvi
+gensim
+
+# --- GUI ---
+streamlit
